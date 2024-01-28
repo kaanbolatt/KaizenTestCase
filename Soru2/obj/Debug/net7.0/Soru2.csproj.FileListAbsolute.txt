@@ -1,0 +1,17 @@
+C:\Users\h2oka\source\repos\Soru2\obj\Debug\net7.0\Soru2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h2oka\source\repos\Soru2\obj\Debug\net7.0\Soru2.AssemblyInfoInputs.cache
+C:\Users\h2oka\source\repos\Soru2\obj\Debug\net7.0\Soru2.AssemblyInfo.cs
+C:\Users\h2oka\source\repos\Soru2\obj\Debug\net7.0\Soru2.csproj.CoreCompileInputs.cache
+C:\Users\h2oka\source\repos\Soru2\bin\Debug\net7.0\Soru2.exe
+C:\Users\h2oka\source\repos\Soru2\bin\Debug\net7.0\Soru2.deps.json
+C:\Users\h2oka\source\repos\Soru2\bin\Debug\net7.0\Soru2.runtimeconfig.json
+C:\Users\h2oka\source\repos\Soru2\bin\Debug\net7.0\Soru2.dll
+C:\Users\h2oka\source\repos\Soru2\bin\Debug\net7.0\Soru2.pdb
+C:\Users\h2oka\source\repos\Soru2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\h2oka\source\repos\Soru2\obj\Debug\net7.0\Soru2.csproj.AssemblyReference.cache
+C:\Users\h2oka\source\repos\Soru2\obj\Debug\net7.0\Soru2.csproj.CopyComplete
+C:\Users\h2oka\source\repos\Soru2\obj\Debug\net7.0\Soru2.dll
+C:\Users\h2oka\source\repos\Soru2\obj\Debug\net7.0\refint\Soru2.dll
+C:\Users\h2oka\source\repos\Soru2\obj\Debug\net7.0\Soru2.pdb
+C:\Users\h2oka\source\repos\Soru2\obj\Debug\net7.0\Soru2.genruntimeconfig.cache
+C:\Users\h2oka\source\repos\Soru2\obj\Debug\net7.0\ref\Soru2.dll

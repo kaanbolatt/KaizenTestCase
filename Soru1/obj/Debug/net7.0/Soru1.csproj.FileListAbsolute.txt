@@ -1,0 +1,14 @@
+C:\Users\h2oka\source\repos\Soru1\bin\Debug\net7.0\Soru1.exe
+C:\Users\h2oka\source\repos\Soru1\bin\Debug\net7.0\Soru1.deps.json
+C:\Users\h2oka\source\repos\Soru1\bin\Debug\net7.0\Soru1.runtimeconfig.json
+C:\Users\h2oka\source\repos\Soru1\bin\Debug\net7.0\Soru1.dll
+C:\Users\h2oka\source\repos\Soru1\bin\Debug\net7.0\Soru1.pdb
+C:\Users\h2oka\source\repos\Soru1\obj\Debug\net7.0\Soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h2oka\source\repos\Soru1\obj\Debug\net7.0\Soru1.AssemblyInfoInputs.cache
+C:\Users\h2oka\source\repos\Soru1\obj\Debug\net7.0\Soru1.AssemblyInfo.cs
+C:\Users\h2oka\source\repos\Soru1\obj\Debug\net7.0\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\h2oka\source\repos\Soru1\obj\Debug\net7.0\Soru1.dll
+C:\Users\h2oka\source\repos\Soru1\obj\Debug\net7.0\refint\Soru1.dll
+C:\Users\h2oka\source\repos\Soru1\obj\Debug\net7.0\Soru1.pdb
+C:\Users\h2oka\source\repos\Soru1\obj\Debug\net7.0\Soru1.genruntimeconfig.cache
+C:\Users\h2oka\source\repos\Soru1\obj\Debug\net7.0\ref\Soru1.dll
